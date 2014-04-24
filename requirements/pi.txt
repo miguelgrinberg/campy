@@ -1,0 +1,2 @@
+-r common.txt
+picamera==1.3
